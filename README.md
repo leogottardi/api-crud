@@ -56,6 +56,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias :
 
     #Instalar as dependencias
     $ yarn add express
+    $ npm install
 
     #Iniciar o projeto
     $ yarn dev
