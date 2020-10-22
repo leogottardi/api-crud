@@ -15,7 +15,7 @@
 ## 📑 Sobre
 
 O projeto é uma api que faz a técnica Create.Read.Update.Delete de estudantes.
-Obs: Neste projeto não foi utilizado um banco de dados, os estudantes são salvos dentro de uma lista no formato JSON.
+Obs: Neste projeto não foi utilizado um banco de dados, os estudantes são salvos dentro de uma lista.
 
 ---
 
