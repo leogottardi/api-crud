@@ -52,7 +52,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias :
     $ git clone https://github.com/leogottardi/api-crud.git
 
     #Entrar no diretório
-    $ git cd api-crud
+    $ cd api-crud
 
     #Instalar as dependencias
     $ yarn add express
