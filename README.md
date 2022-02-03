@@ -56,9 +56,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias :
     $ cd api-crud
 
     #Instalar as dependencias
-    $ yarn add express
+
     $ npm install
 
     #Iniciar o projeto
-    $ yarn dev
+    $ npm run dev
 ```
