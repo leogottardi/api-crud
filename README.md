@@ -34,7 +34,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias :
  - Para cadastrar um estudante deve utilizar a url: http://localhost:4444/students
  - Para listar todos os estudantes cadastrados deve utilizar a url: http://localhost:4444/students
  - Para atualizar um estudante deve utilizar a url: http://localhost:4444/students/id-do-estudante
- - Para cadastrar um estudante deve utilizar a url: http://localhost:4444/students/id-do-estudante
+ - Para deletar um estudante deve utilizar a url: http://localhost:4444/students/id-do-estudante
   
   No parâmetro 'id-do-estudante' deve ser passado o id que consegue ser pego na url de listagem.
   
